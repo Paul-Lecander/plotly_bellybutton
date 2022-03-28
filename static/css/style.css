@@ -1,0 +1,9 @@
+body {
+
+    color: #030303b0;
+  }
+.jumbotron {
+  background-image: url("../images/culture_plate.png");
+  background-size: 100% 100%;
+  text-align: center;
+}
